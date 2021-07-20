@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KyleStevenYoung
+- 👀 I’m interested in Python and stock data manipulation.
+- KyleStevenYoung AT gmail. Com is probably the best way to get in touch. 
